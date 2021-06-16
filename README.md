@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vassiyanakiev
 - 👀 I’m interested in Web Development with .NET and Unity 3D.
 - 🌱 I’m currently learning OOP for C# and JS. 
-- 💞️ I’m looking to collaborate on internship programs or projects intended for beginners or juniour developers.
+- 💞️ I’m looking to collaborate on internship programs or projects intended for beginners or junior developers.
 - 📫 How to reach me: You can contact me via my email adress: vasygeorgieva@gmail.com
 
 <!---
